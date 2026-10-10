@@ -2,7 +2,7 @@
 A highly efficient 24/7 Discord VC bot written in pure C.  
 The bot is a statically linked, libc-free Linux x86-64 executable.
 
-Features: (1) a ping command (ping the bot), and (2) plays an `.mp3` in a VC.
+Features: (1) a ping command (ping the bot), and (2) plays an `.mp3` in a VC forever.
 
 It uses minimal CPU and RAM, weighs approx < 0.1 MB at runtime and costs < £0.1/year in electricity (excludes network bandwidth).
 
