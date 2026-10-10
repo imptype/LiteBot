@@ -34,10 +34,11 @@ It uses minimal CPU and RAM, weighs approx < 0.1 MB at runtime and costs < £0.1
 │  ├─ stdlite.h         # Stdlib replacements
 │  └─ syslite.h         # Syscall wrappers
 ├─ .gitignore           # Hides certain files
-├─ config-example.json  # Example configuration
+├─ LICENSE              # License
 ├─ Makefile             # Build script
-├─ monitor.sh           # Resource tracker
-└─ README.md            # Defines this README page
+├─ README.md            # Defines this README page
+├─ config-example.json  # Example configuration
+└─ monitor.sh           # Resource tracker
 ```
 Note: Most of the files like `dave.h` are partial implementations.
 
