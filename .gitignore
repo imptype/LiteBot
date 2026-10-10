@@ -1,0 +1,8 @@
+# Secrets
+config.json
+
+# Build output
+build/
+
+# Generated audio (rebuilt by `make` from the .mp3)
+assets/*.bin
